@@ -17,3 +17,6 @@ How to learn Hindi words and sentences for English speakers
  
 {% include youtubePlayer.html id=page.youtubeId %}
  
+ 
+[Next]({{ site.baseurl }}{% link  split1/_posts/2017-12-30-English to hindi learn words sentences 319 .md%})
+ 
